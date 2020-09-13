@@ -1,0 +1,4 @@
+~run
+val s = "hello world"
+val s = "hello world";
+exit
