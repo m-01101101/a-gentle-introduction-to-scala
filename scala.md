@@ -1,6 +1,4 @@
-Notes from David Venturi' course on Data Camp:
-
-https://campus.datacamp.com/courses/introduction-to-scala/a-scalable-language?ex=1
+# A gentle introduction to learning Scala
 
 "Scala" means staircase in Italian, the logo was also inspired by the staircase in which the language was born.
 
@@ -14,7 +12,7 @@ Scala source code is intended to be compiled to Java bytecode, so that the resul
 
 Scala is designed to growth with the demands of its users.
 
-> To borrow an analogy from Eric Raymond's The Cathedral and the Bazaar. A cathedral is a building with rigid perfection, it takes a long time to build and rarely changes after being built. A bazaar, on the other hand, is flexible. It is adapted and extended often by the people working in it.
+> To borrow an analogy from Eric Raymond's The Cathedral and the Bazaar. A cathedral is a building with rigid perfection, it takes a long time to build and rarely changes after being built. A bazaar, on the other hand, is flexible. It is adapted and extended often by the people working in it. -- David Venturi
 
 Scala is not a perfectly complete language. Everything is customisable to your program's requirement.
 
@@ -56,3 +54,19 @@ Scala is high-level, you don't deal with "low-level" details of the computer run
 Scala has an advanced static type system that reduces verbosity in your code and adds language flexibility.
 
 Scala is compatible with pre-existing Java code.
+
+****
+
+Reference: [David Venturi's](http://davidventuri.com/) course on [Data Camp](https://campus.datacamp.com/courses/introduction-to-scala/a-scalable-language?ex=1)
+
+****
+
+<img src="md_refs/helloworld.png" width="300">
+
+Hello world project added
+
+https://docs.scala-lang.org/getting-started/sbt-track/getting-started-with-scala-and-sbt-on-the-command-line.html
+
+Have a look at;
+
+https://www.scala-exercises.org/scala_tutorial/terms_and_types
