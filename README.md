@@ -1,2 +1,2 @@
-# a-gentle-introduction-to-scala
+# A gentle introduction to Scala
 Learning Scala
